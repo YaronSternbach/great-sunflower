@@ -102,6 +102,7 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
+    title: ff
   - type: grid_section
     title: How it works
     grid_items:
